@@ -47,6 +47,7 @@ Each strategy includes:
 ### Prerequisites
 - Node.js 18+
 - npm or yarn
+- download https://drive.google.com/drive/folders/1IXD2_qjJFS-BoN7_XpYQ4rohN9iBf7Tl?usp=drive_link and include on project/src/data
 
 ### Installation
 
