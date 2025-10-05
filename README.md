@@ -41,6 +41,8 @@ Each strategy includes:
 - Save and load simulations
 - Recent simulations history
 - Supabase database integration
+### DEMO
+- https://www.youtube.com/watch?v=sXwK15xZB1Y
 
 ## 🚀 Getting Started
 
